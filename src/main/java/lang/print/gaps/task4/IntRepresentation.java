@@ -2,6 +2,13 @@ package lang.print.gaps.task4;
 
 public class IntRepresentation {
     public static void main(String[] args) {
-        System.out.println("\u0063\u0068\u0061\u0072");
+        char t1 = 99;
+        char t2 = 104;
+        char t3 = 97;
+        char t4 = 114;
+        System.out.println(t1);
+        System.out.println(t2);
+        System.out.println(t3);
+        System.out.println(t4);
     }
 }
