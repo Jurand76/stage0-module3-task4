@@ -5,6 +5,6 @@ public class FormulaCreator {
         double a, b;
         a = b = 0;
         double formula;
-        formula = ((9 * a * a - 5 * b + 2 - 7) * (a + b - 4 * a * b) / 2);
+        formula = ((9 * a * a - 5 * b + 2 + a - 7) * (a + b - 4 * a * b) / 2);
     }
 }
